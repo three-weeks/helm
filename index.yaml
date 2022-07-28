@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  borr:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-28T13:25:03.857599662Z"
+    description: A Helm chart for Kubernetes
+    digest: a0a0966dce95cb7118ee2cbad3ece3cea6d76d8acacc4211f8ee44d4c11e08d0
+    name: borr
+    type: application
+    urls:
+    - https://github.com/three-weeks/helm/releases/download/borr-0.1.0/borr-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-28T13:25:03.386312538Z"
